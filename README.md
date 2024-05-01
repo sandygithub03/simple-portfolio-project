@@ -20,8 +20,3 @@ Technologies Used
 HTML5
 CSS3
 
-How to Use
-Clone the repository to your local machine using git clone https://github.com/yourusername/your-portfolio.git
-Open the index.html file in your web browser to view the portfolio website.
-Navigate between the Home and Contact pages using the navigation menu or links provided.
-
